@@ -332,16 +332,6 @@ Ese archivo contiene información sobre:
 - roadmap de integración
 - checklist de desarrollo
 
-## Roadmap sugerido
-
-- completar integración de `GatewayService`
-- terminar `EdgeService` con backend tipado
-- verificar persistencia end-to-end
-- agregar filtrado por proceso activo
-- mejorar validaciones de UI y errores
-- añadir pruebas unitarias y E2E
-- documentar el manejo de roles y procesos en la app
-
 ## Notas importantes
 
 - El repositorio contiene la app frontend dentro del directorio `front/`.
@@ -353,17 +343,3 @@ Ese archivo contiene información sobre:
 
 `ProyectoWebFront` es un editor visual BPMN desarrollado en Angular 20 que permite crear procesos, actividades, gateways y conexiones en un canvas interactivo. Actualmente el frontend cuenta con una base sólida de renderizado visual y servicios HTTP, con integración avanzada para actividades y gateways, y con una etapa pendiente para completar la gestión de edges y persistencia total con el backend.
 
-## Licencia
-
-No se especifica una licencia en el repositorio en este momento. Si se desea usar el proyecto en un entorno profesional o institucional, conviene revisar la política del dueño del repositorio antes de distribuirlo.
-
-## Autor / propietario
-
-Proyecto asociado a la cuenta GitHub:
-
-- `Danielamn026`
-- repositorio: `ProyectoWebFront`
-
----
-
-Este README fue generado con información del repositorio y del contexto técnico del proyecto para resumir la intención, stack, estructura y estado actual del mismo.
